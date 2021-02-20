@@ -10,9 +10,3 @@ U ovoj arhivi se nalaze sledeci fajlovi:
 5. error.txt - izlazni fajl sa greskama prilikom podizanja simulatora. U slucaju da ne bude bilo gresaka prilikom pokretanja ili rada fajl bi trebalo da bude prazan.
 6. Code.txt - primer sadrzaja operativne memorije. Sadrzaj operativne memorije se ne ucitava automatski vec se ucitava koristeci File -> Load memory ili Ctrl + N 
 7. microProgram_V1.txt - nalaze se novija verzija programa sa mikroinstrukcijama. Ne ucitava se automatski prilikom pokretanja simulatora. Da bi se koristio potrebno je trenutnu verziju mikroprograma (microProgram.txt) sacuvati, a dati microProgram_V1.txt preimenovati u microProgram.txt.
-
-Racunarski sistem koji se simulira: dr Jovan Djordjevic <jdjordjevic@etf.bg.ac.rs>
-Implementacija osnovne varijante resenja simulatora racunarskog sistema u programskom jeziku Java: Aleksandar Milic <mrevil1990@yahoo.com>
-Transformacija simulatora u konfigurabilni simulator arhitekture i organizacije racunara: dr Zaharije Radivojevic <zaki@etf.bg.ac.rs>
-
-Greske u radu simulatora i sugestije slati na adresu: zaki@etf.bg.ac.rs
